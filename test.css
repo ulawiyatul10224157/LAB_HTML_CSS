@@ -1,0 +1,4 @@
+Prediksi warna teks
+a. "Weekly hack nights." = hijau (green), karena cocok dengan selector section p.
+b. "Bring your own laptop." = oranye (orange), karena cocok dengan selector .note, yang lebih spesifik daripada selector section p.
+c. "© 2026 Student Affairs" = biru (blue), karena hanya cocok dengan selector p.
